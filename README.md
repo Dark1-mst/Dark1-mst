@@ -2,7 +2,7 @@
 
 ### Desenvolvedor Front-end em formação | Interfaces web, UX e JavaScript
 
-![Animação com temas de desenvolvimento front-end](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1100&color=2F81F7&center=true&vCenter=true&width=680&height=45&lines=Criando+interfaces+web+responsivas;HTML%2C+CSS+e+JavaScript;Aprendendo+com+projetos+reais)
+![Animação: intenção visual, Evertt' Eats e código com propósito](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&pause=1400&color=0C806F&center=true&vCenter=true&width=760&height=56&repeat=true&lines=Menos+ru%C3%ADdo.+Mais+inten%C3%A7%C3%A3o+em+cada+tela.;Evertt%27+Eats%3A+do+card%C3%A1pio+ao+carrinho.;C%C3%B3digo+claro.+Experi%C3%AAncias+com+prop%C3%B3sito.)
 
 [Portfólio](https://purple-nightingale-800138.hostingersite.com/) · [Projetos no GitHub](https://github.com/Dark1-mst?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/evertton-thiago-1953203bb) · [E-mail](mailto:everttondark3@gmail.com)
 
