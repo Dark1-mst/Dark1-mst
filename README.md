@@ -44,10 +44,7 @@ Sou desenvolvedor front-end em formação e venho construindo projetos próprios
 **Ferramentas de trabalho:** Git, GitHub, Visual Studio Code e Figma
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,vscode,figma&theme=dark">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,vscode,figma&theme=light" alt="HTML, CSS, JavaScript, React, Node.js, Python, Git, GitHub, VS Code e Figma"/>
-</picture>
+<img src="https://img.shields.io/badge/HTML5-0C806F?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-0C806F?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/JavaScript-0C806F?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/> <img src="https://img.shields.io/badge/React-0C806F?style=flat-square&logo=react&logoColor=white" alt="React"/> <img src="https://img.shields.io/badge/Node.js-0C806F?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Python-0C806F?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Git-0C806F?style=flat-square&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-0C806F?style=flat-square&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/VS%20Code-0C806F?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/> <img src="https://img.shields.io/badge/Figma-0C806F?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
 </div>
 
 ### Princípios de trabalho
@@ -60,21 +57,21 @@ Busco criar layouts responsivos, com hierarquia visual e navegação claras. Dou
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dark1-mst&show_icons=true&theme=transparent&hide_border=true&title_color=0C806F&icon_color=0C806F&text_color=333333&ring_color=0C806F" alt="Estatísticas do GitHub" height="165"/>
+<img src="https://img.shields.io/badge/GitHub-Dark1--mst-0C806F?style=flat-square&logo=github&logoColor=white" alt="Perfil GitHub"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dark1-mst&theme=transparent&hide_border=true&ring=0C806F&fire=0C806F&currStreakLabel=0C806F&sideLabels=333333&currStreakNum=333333&sideNums=333333&dates=999999" alt="Sequência de contribuições" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dark1-mst&layout=compact&theme=transparent&hide_border=true&title_color=0C806F&text_color=333333&langs_count=8" alt="Linguagens mais usadas" height="165"/>
+<img src="https://img.shields.io/badge/Evertt%27%20Eats-HTML%20%7C%20CSS%20%7C%20JavaScript-0C806F?style=flat-square&logo=javascript&logoColor=white" alt="Tecnologias do Evertt Eats"/> <img src="https://img.shields.io/badge/Portf%C3%B3lio-CSS%20%7C%20JavaScript-0C806F?style=flat-square&logo=css3&logoColor=white" alt="Tecnologias do portfólio"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Dark1-mst&theme=flat&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8&row=1" alt="Troféus do GitHub"/>
+<img src="https://img.shields.io/badge/Aprendizado-Cont%C3%ADnuo-0C806F?style=flat-square&logo=github&logoColor=white" alt="Aprendizado contínuo"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dark1-mst&theme=minimal&hide_border=true&color=0C806F&line=0C806F&point=0A5C50&area=true&area_color=0C806F" alt="Gráfico de atividade" width="100%"/>
+<a href="https://github.com/Dark1-mst?tab=overview"><img src="https://img.shields.io/badge/Contribui%C3%A7%C3%B5es-Ver%20no%20perfil-0C806F?style=flat-square&logo=github&logoColor=white" alt="Ver contribuições no perfil"/></a>
 
 </div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Dark1-mst/Dark1-mst/output/github-contribution-grid-snake.svg" alt="Cobrinha animada comendo o gráfico de contribuições"/>
   <br/>
-  <sub>Animação da cobrinha ativada via GitHub Actions — veja o arquivo <code>snake.yml</code> incluso para configurar em ~2 minutos.</sub>
+  <sub>Animação da cobrinha ativada via GitHub Actions — atualizada automaticamente a cada 12 horas.</sub>
 </div>
 
 <br/>
