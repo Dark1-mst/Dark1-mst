@@ -1,75 +1,41 @@
-👨‍💻 Olá, eu sou Evertton Thiago!
-🚀 Front-End Developer | React | JavaScript | TypeScript | Node.js | Python
+# Olá, eu sou Evertton Thiago
 
-Sou desenvolvedor Front-End apaixonado por tecnologia e pelo desenvolvimento de interfaces modernas, responsivas e intuitivas.
+### Desenvolvedor Front-end em formação
 
-Gosto de transformar ideias em experiências digitais, buscando sempre escrever código limpo, organizado, reutilizável e de fácil manutenção.
+![Animação com temas de front-end](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1100&color=2F81F7&center=true&vCenter=true&width=680&height=45&lines=Criando+interfaces+web+responsivas;HTML%2C+CSS+e+JavaScript;Aprendendo+com+projetos+reais)
 
-Tenho interesse em desenvolvimento web, UI/UX e no aprendizado contínuo de novas tecnologias.
+[Portfólio](https://purple-nightingale-800138.hostingersite.com/) · [LinkedIn](https://www.linkedin.com/in/evertton-thiago-1953203bb) · [E-mail](mailto:everttondark3@gmail.com)
 
-🧑‍💻 Sobre mim
+---
 
-💻 Desenvolvedor Front-End
+## Sobre mim
 
-⚛️ Desenvolvimento de aplicações com React
+Sou desenvolvedor front-end em formação, com foco em criar interfaces responsivas, funcionais e fáceis de usar. Aprendo construindo projetos práticos e aprimorando minhas habilidades em desenvolvimento web.
 
-🟨 JavaScript e TypeScript
+## Tecnologias e ferramentas
 
-🐍 Python para desenvolvimento e estudos
+![HTML, CSS, JavaScript, React, Node.js, Python, Git, GitHub, VS Code e Figma](https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,vscode,figma)
 
-🟢 Node.js para desenvolvimento Back-End
+## Projetos em destaque
 
-🎨 Interesse em UI/UX e experiências digitais
+### Evertt' Eats
 
-📚 Sempre estudando e aprimorando minhas habilidades
+Site de delivery com cardápio por categorias, busca de produtos e carrinho interativo.
 
-🚀 Explorando novas tecnologias e ferramentas
+**Tecnologias:** HTML · CSS · JavaScript  
+[Ver código no GitHub](https://github.com/Dark1-mst/Evertt--Eats)
 
-☕ Café + código = produtividade
+### Portfólio pessoal
 
-🛠️ Tecnologias e ferramentas
-<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,git,github,vscode,figma" /> </div>
-📊 GitHub Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dark1-mst&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dark1-mst&layout=compact&langs_count=8&theme=tokyonight"/> </div>
-🚀 Projetos
-🛒 E-commerce
+Meu espaço para apresentar projetos, habilidades, certificados e formas de contato.
 
-Aplicação de e-commerce desenvolvida com foco em responsividade, experiência do usuário, organização de componentes e boas práticas de desenvolvimento.
+**Tecnologias:** HTML · CSS · JavaScript  
+[Acessar o site](https://purple-nightingale-800138.hostingersite.com/) · [Ver código no GitHub](https://github.com/Dark1-mst/meu-portfolio)
 
-Tecnologias: React • TypeScript • CSS
+## Contato
 
-🔗 Ver projeto
+[LinkedIn](https://www.linkedin.com/in/evertton-thiago-1953203bb) · [Instagram](https://www.instagram.com/evertton.th_/) · [E-mail](mailto:everttondark3@gmail.com)
 
-📱 Landing Page
+---
 
-Landing page moderna e responsiva desenvolvida com foco em UI, responsividade, organização visual e animações.
-
-Tecnologias: HTML • CSS • JavaScript
-
-🔗 Ver projeto
-
-💼 Portfólio
-
-Meu portfólio pessoal desenvolvido para apresentar meus projetos, habilidades e evolução como desenvolvedor.
-
-Tecnologias: React • Next.js • TypeScript
-
-🔗 Ver projeto
-
-📚 Atualmente estudando
-React.js        ███████████████████░░  90%
-JavaScript      ███████████████████░░  90%
-TypeScript      ████████████████░░░░░  80%
-Next.js         ███████████████░░░░░░  75%
-UI/UX           █████████████░░░░░░░░  65%
-Node.js         ██████████░░░░░░░░░░░  50%
-Python          ██████████░░░░░░░░░░░  50%
-
-📫 Entre em contato
-<div align="center"> <a href="https://www.linkedin.com/in/evertton-thiago-1953203bb"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="https://www.instagram.com/evertton.th_/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a> <a href="mailto:everttondark3@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> </div>
-<div align="center">
-💻 Transformando ideias em código.
-
-⭐ Se algum dos meus projetos te ajudou ou chamou sua atenção, considere deixar uma estrela!
-
-</div>
+*Sempre aprendendo, construindo e compartilhando.*
