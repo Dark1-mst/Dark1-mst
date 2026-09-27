@@ -1,0 +1,31 @@
+name: Gerar animação snake do contribution graph
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # roda a cada 12 horas
+  workflow_dispatch:          # permite rodar manualmente
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Gerar SVG da cobrinha
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Dark1-mst
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Publicar no branch "output"
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
